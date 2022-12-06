@@ -1,0 +1,5 @@
+cc_binary {
+   name: "patchelf",
+   srcs: ["patchelf.cc"],
+   cpp_std: "c++17",
+}
