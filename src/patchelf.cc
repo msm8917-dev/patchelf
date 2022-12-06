@@ -131,7 +131,7 @@ static void debug(const char * format, ...)
 }
 
 
-void fmt2(std::ostringstream & out)
+void fmt2(std::ostringstream & /*out*/)
 {
 }
 
